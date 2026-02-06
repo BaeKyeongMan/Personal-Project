@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Avoid Game/Avoid Game.vcxproj" Id="ce7afa0f-488e-436f-8b02-1faf78d40ff4" />
+  <Project Path="Shooting_Game/Shooting_Game.vcxproj" Id="83ca4027-9dcd-448d-80c5-70848e4805ff" />
+</Solution>
